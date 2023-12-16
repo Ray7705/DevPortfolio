@@ -56,6 +56,7 @@ import crypto from './projects/crypto.png';
 import moovee from './projects/moovee.png';
 import tictactoe from './projects/tictactoe.png';
 import freshshop from './projects/fresh-shop.jpg';
+import foodninja from './projects/food-ninja.png';
 
 export {
   bwmap,
@@ -110,4 +111,5 @@ export {
   moovee,
   tictactoe,
   freshshop,
+  foodninja
 };

@@ -35,6 +35,7 @@ import {
   moovee,
   tictactoe,
   freshshop,
+  foodninja
 } from '../assets';
 
 export const navLinks = [
@@ -177,7 +178,7 @@ const projects = [
   {
     id: 'project-1',
     name: 'FoodNinja',
-    description: 'A Recipe App that allows users to search for recipes.',
+    description: 'reactJS, nodeJS, Sequelize A Recipe Web App that allows users to search for recipes.',
     tags: [
       {
         name: 'react',
@@ -192,7 +193,7 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: crypto,
+    image: foodninja,
     repo: 'https://github.com/jared-chevalier/food-ninja.git',
     demo: 'https://github.com/jared-chevalier/food-ninja.git',
   },
@@ -200,7 +201,7 @@ const projects = [
     id: 'project-2',
     name: 'Crypto App',
     description:
-      'A Crypto Web App that lets users search for any crypto currency and get its details',
+      'reactJS, RestAPI, HTML A Crypto Web App that lets users search for any crypto currency and get its details',
     tags: [
       {
         name: 'react',
@@ -215,14 +216,14 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: leaderboard,
+    image: crypto,
     repo: 'https://github.com/Ray7705/Crypto-App.git',
     demo: 'https://github.com/Ray7705/Crypto-App.git',
   },
   {
     id: 'project-3',
     name: 'Moovee',
-    description: 'This is a Movie Rental App where you can rent movies.',
+    description: 'ReactJS, NodeJS, HTML This is a Movie Rental Web App where you can rent movies.',
     tags: [
       {
         name: 'reactjs',
@@ -244,7 +245,7 @@ const projects = [
   {
     id: 'project-4',
     name: 'Tic Tac Toe',
-    description: `A Java App that lets users play Tic Tac Toe.`,
+    description: `JAVA A Java App that lets users play Tic Tac Toe.`,
     tags: [
       {
         name: 'JAVA',
@@ -259,7 +260,7 @@ const projects = [
     id: 'project-5',
     name: 'The Fresh Shop',
     description:
-      'This project was developed with Java EE using JSP and servelts. It includes login, product list and cart views.',
+      'JAVA EE, JSP, Servlets This project was developed with Java EE using JSP and servelts. It includes login, product list and cart views.',
     tags: [
       {
         name: 'JAVA EE',

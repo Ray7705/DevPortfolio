@@ -144,8 +144,20 @@ const Contact = () => {
             />
           </button>
         </form>
+        <br></br>
+        <p className="text-timberWolf font-medium mt-6">OR</p>
+        <br></br>
+        <p className="text-timberWolf font-medium mt-6"><a href="tel:514-885-6020">514-885-6020</a></p>
+        <p className="text-timberWolf font-medium mt-6"><a href = "mailto: rehmanbasharat7705@outlook.com">rehmanbasharat7705@outlook.com</a></p>
+        <p className="text-timberWolf font-medium mt-6"><a href="https://www.linkedin.com/in/rehman-basharat/"><img src="linkedin.png" alt="LinkedIn" /></a></p>
+
+
       </motion.div>
+
+      
     </div>
+
+    
   );
 };
 
